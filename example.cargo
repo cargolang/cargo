@@ -1,6 +1,11 @@
 a : int = 0
 a := 0
 
-defun foo(a:int, b:int):int {
-    
+b : int
+b := 0
+
+fn foo(a:int, b:int):int {
+    let a : int = {
+        
+    }
 }
